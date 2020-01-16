@@ -21,7 +21,7 @@ import org.apache.ibatis.exceptions.PersistenceException;
  * @author Clinton Begin
  */
 /**
- * 缓存异常
+ *    缓存异常
  *
  */
 public class CacheException extends PersistenceException {
